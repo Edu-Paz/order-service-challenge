@@ -2,7 +2,6 @@ package com.devsuperior.order_service_challenge;
 
 import com.devsuperior.order_service_challenge.entities.Order;
 import com.devsuperior.order_service_challenge.services.OrderService;
-import com.devsuperior.order_service_challenge.services.ShippingService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;

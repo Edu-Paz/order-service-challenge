@@ -1,7 +1,5 @@
 package com.devsuperior.order_service_challenge.entities;
 
-import org.springframework.beans.factory.annotation.Autowired;
-
 public class Order {
     private int code;
     private double basic;
